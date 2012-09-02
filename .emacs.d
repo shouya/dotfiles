@@ -1,1 +1,0 @@
-/home/cmlr/.emacs.d
