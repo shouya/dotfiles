@@ -1,4 +1,3 @@
-
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -6,7 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(default-input-method (quote chinese-zozy))
- '(mediawiki-site-alist (quote (("My Private Wiki" "https://localhost/wiki/" "ShouYa" "54c321699" "Main Page"))))
+ '(mediawiki-site-alist (quote (("My Private Wiki" "https://localhost/wiki/" "ShouYa" "xxxxxxx" "Main Page"))))
  '(mediawiki-site-default "My Private Wiki")
  '(safe-local-variable-values (quote ((encoding . gbk) (encoding . utf-8)))))
 
